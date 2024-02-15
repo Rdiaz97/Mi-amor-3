@@ -1,0 +1,45 @@
+.area{
+    background-color: black;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.j-1{
+    font-size: 80px ;
+    color:rgb(62, 128, 250);
+    text-align: center;
+    background-color: rgb(62, 128, 250);
+    width: 300px;
+    height: 80px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    border-radius: 15px;
+}
+
+.j-2{
+    background-color: rgb(62, 128, 250);
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top: 95px;
+    left: 220px;
+    border-radius: 15px;
+    border-radius: 0;
+}
+
+.j-3{
+    background-color: rgb(62, 128, 250);
+    width: 220px;
+    height: 80px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    border-radius: 15px;
+}
+
+.j-1:hover{
+    color: black;
+}
